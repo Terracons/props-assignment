@@ -1,0 +1,18 @@
+.CardWrapper{
+    background-color: rgb(187, 200, 236);
+    height: 300px;
+    max-width: 200px;
+    color: rgb(8, 8, 56);
+    box-shadow: rgba(8, 8, 56, 0.35) 0px 5px 15px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    img{
+        border-radius: 30px;
+        width: 150px;
+
+    }
+    line-height: 1px;
+}
